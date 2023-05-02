@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body {
+    background-color: #6191F0;
+    background-image: url();
+}
+body div {
+    color: #F3ECED;
+}
+blockquote blockquote h1 {
+}
+body header h1 {
+}
+body,td,th {
+    color: #F5EDEE;
+}
+a:link {
+    color: #0000FF;
+}
+nav {
+    background-color: #F7F7F7;
+    color: #100FDD;
+    text-align: center;
+}
+directscr {
+    font-style: italic;
+    text-align: center;
+}
+header {
+    font-size: xx-large;
+    text-align: center;
+}
+.left {
+    float: left;
+}body img {
+    float: left;
+}
